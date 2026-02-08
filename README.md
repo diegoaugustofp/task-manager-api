@@ -81,4 +81,3 @@ As dependências estão fixadas em `requirements.txt` para garantir reprodutibil
 pip install -r requirements.txt
 ```
 
-Se quiser que eu fixe versões diferentes ou adicione instruções para Linux/macOS, me avise.
